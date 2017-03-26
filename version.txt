@@ -1,1 +1,3 @@
-0.131
+<Version: 0.131> 
+/data/Armors.json https://xxoo/xxoot.zip 
+<end of="" version=""> 
